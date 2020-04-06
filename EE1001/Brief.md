@@ -1,1 +1,1 @@
-# Foundations of Digital Techniques
+# EE1001 Foundations of Digital Techniques

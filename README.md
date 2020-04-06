@@ -1,2 +1,3 @@
 # CityU_Materials
-Courses I've taken in CityU
+Major courses I've taken in CityU
+From 2018 to 2022
